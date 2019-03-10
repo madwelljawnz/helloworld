@@ -1,7 +1,7 @@
 /* myStyle.css */
 body {
  background-color: #0033FF;
- color: #000000
+ color: #0033FF
 }
 h1 {
  color: #000000;
@@ -17,6 +17,6 @@ h2 {
 
 p {
  background-color: #FFFFFF;
- color: #FFFFFF;
+ color: #0033FF;
  text-align: left;
 }
