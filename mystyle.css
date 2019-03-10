@@ -1,6 +1,6 @@
 /* myStyle.css */
 body {
- background-color: #333300;
+ background-color: #112233;
  color: #FFFFFF;
 }
 h1 {
@@ -8,6 +8,13 @@ h1 {
  text-align: center;
  font: italic 200% fantasy;
 }
+
+h2 {
+  color: #665544;
+  text-align: right;
+  font: italic 150% calibri;
+}
+
 p {
  background-color: #FFFF33;
  color: #333300;
