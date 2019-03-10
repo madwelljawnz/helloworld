@@ -10,14 +10,14 @@ h1 {
 }
 
 h2 {
-  color: #000000;
-  text-align: right;
+  color: #FFFFFF;
+  text-align: left;
   font: italic 150% calibri;
 }
 
 p {
- background-color: #0033FF;
+ background-color: #FFFFFF;
  color: #000000;
- text-align: right;
+ text-align: left;
  border: 3px groove #FFFFFF;
 }
